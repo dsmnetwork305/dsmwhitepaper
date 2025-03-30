@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/repository/main/logo.png" width="150px">
-</p>
-
+![DSM Network Logo](https://raw.githubusercontent.com/username/repository/main/logo.png)
 # DSMwhitepaper
 "DSM white paper repository for documentation and reference."
 # INDD (Indian Dollar) - Whitepaper
