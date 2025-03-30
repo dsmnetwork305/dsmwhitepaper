@@ -1,4 +1,4 @@
-![DSM Network Logo](logo.png)
+![image](https://github.com/user-attachments/assets/9bf9325c-7968-4168-839c-3f9ad06b16fd)
 # dsmwhitepaper
 "DSM white paper repository for documentation and reference."
 # INDD (Indian Dollar) - Whitepaper
