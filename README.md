@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="logo.png" width="200px">
-</p>
-
+![image](https://github.com/user-attachments/assets/4bf7aaf0-ee8b-4925-9847-b821c517b7ed)
 # DSMwhitepaper
 "DSM white paper repository for documentation and reference."
 # INDD (Indian Dollar) - Whitepaper
