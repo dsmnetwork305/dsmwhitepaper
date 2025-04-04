@@ -9,8 +9,8 @@
 ![image](https://github.com/user-attachments/assets/532bb0d8-1dca-4682-b15b-6d4c4b774b8a)
 
 
-**INDD (Indian Dollar)** is a decentralized cryptocurrency token developed for trading and investment purposes. It operates within the **DSM (Decentralized Social Media) Network**, a blockchain-powered platform where users can engage in content sharing, discussions, and financial transactions in a secure and transparent manner.
-
+**INDD (Indian Dollar)** is a decentralized cryptocurrency token developed for trading and investment purpose,indian dollar{INDD} is going to pre selling at https://www.pinksale.finance ,pre sale will start 15/04/2025 11:00 and close 24/05/2025 16:00 
+##buying process-open https://www.pinksale.finance search INDD in search bar, add wallet like trust wallet or meta mask wallet POL{MATTIC} should aviliable in wallet,going in pre sal section fill amount in POL BUY indd token at low price,completing pre sale claim your INDD token at same plateform taking your token in wallet you can sell your token on quicckswap (DEX) and take profit or continuously trading..
 ## Purpose & Vision
 
 The INDD token is designed to facilitate seamless transactions within the DSM Network while also enabling users to participate in **decentralized finance (DeFi) applications**. This token will be utilized for investments, trading, and peer-to-peer transactions, supporting the broader adoption of blockchain technology in India and beyond.
@@ -52,7 +52,7 @@ While the DSM Network operates as a fully decentralized crypto-based ecosystem, 
 
 The **DSM Network** aims to revolutionize social media by integrating cryptocurrency payments, rewarding engagement, and supporting economic growth. The platform will:
 
-- **Support USDT transactions** on the **Polygon Network**.
+- **Support POL(MATTIC) transactions** on the **Polygon Network**.
 - **Enable ads, news releases, business promotions, and crypto investments**.
 - **Provide earnings in INDD** for creators and users, separate from the token economy.
 - **Offer a reward-based system** for:
