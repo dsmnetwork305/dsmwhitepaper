@@ -10,7 +10,9 @@
 
 
 **INDD (Indian Dollar)** is a decentralized cryptocurrency token developed for trading and investment purpose,indian dollar{INDD} is going to pre selling at https://www.pinksale.finance ,pre sale will start 15/04/2025 11:00 and close 24/05/2025 16:00 
-##buying process-open https://www.pinksale.finance search INDD in search bar, add wallet like trust wallet or meta mask wallet POL{MATTIC} should aviliable in wallet,going in pre sal section fill amount in POL BUY indd token at low price,completing pre sale claim your INDD token at same plateform taking your token in wallet you can sell your token on quicckswap (DEX) and take profit or continuously trading..
+
+## buying process-
+open https://www.pinksale.finance search INDD in search bar, add wallet like trust wallet or meta mask wallet POL{MATTIC} should aviliable in wallet,going in pre sale section fill amount by POL buy INDD token at low price,completing pre sale claim your INDD token at same plateform taking your token in wallet you can sell your token on QUICKSWAP (DEX) and take profit or trading continuously....
 ## Purpose & Vision
 
 The INDD token is designed to facilitate seamless transactions within the DSM Network while also enabling users to participate in **decentralized finance (DeFi) applications**. This token will be utilized for investments, trading, and peer-to-peer transactions, supporting the broader adoption of blockchain technology in India and beyond.
