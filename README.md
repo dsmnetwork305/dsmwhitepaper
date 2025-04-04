@@ -1,9 +1,12 @@
 ![image](https://github.com/user-attachments/assets/4bf7aaf0-ee8b-4925-9847-b821c517b7ed)
 # DSMwhitepaper
 "DSM white paper repository for documentation and reference."
+ **DSM (Decentralized Social Media) Network**, a blockchain-powered platform where users can engage in content sharing, discussions, and financial transactions in a secure and transparent manner.
+
 # INDD (Indian Dollar) - Whitepaper
 
 ## Introduction
+fe8710cc-5194-4253-b8e9-af590f0fdc261.6 MB png file
 
 **INDD (Indian Dollar)** is a decentralized cryptocurrency token developed for trading and investment purposes. It operates within the **DSM (Decentralized Social Media) Network**, a blockchain-powered platform where users can engage in content sharing, discussions, and financial transactions in a secure and transparent manner.
 
