@@ -6,7 +6,8 @@
 # INDD (Indian Dollar) - Whitepaper
 
 ## Introduction
-https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-5084-51f7-be16-39a2b6f26747/raw?se=2025-04-04T06%3A52%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=55edc047-4e0a-576c-a814-02dbfd0dbd9e&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T18%3A19%3A46Z&ske=2025-04-04T18%3A19%3A46Z&sks=b&skv=2024-08-04&sig=bPztZ4fiEuufUx6izFAAnpw59zaI9hKwrrWKzI9HtpA%3D
+![image](https://github.com/user-attachments/assets/532bb0d8-1dca-4682-b15b-6d4c4b774b8a)
+
 
 **INDD (Indian Dollar)** is a decentralized cryptocurrency token developed for trading and investment purposes. It operates within the **DSM (Decentralized Social Media) Network**, a blockchain-powered platform where users can engage in content sharing, discussions, and financial transactions in a secure and transparent manner.
 
